@@ -2,7 +2,7 @@
 
 The idea is to create a rails api for url shortening.
 
-I want to have decoupled frontend and [backend](https://github.com/itsmaia/urlshortener-backend), with the frontend in VueJs. This is the backend repository.
+I want to have decoupled frontend and [backend](https://github.com/itsmaia/urlshortener-backend), with the frontend in VueJs. This is the frontend repository.
 
 ---
 
